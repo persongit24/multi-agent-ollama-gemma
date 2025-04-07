@@ -1,0 +1,9 @@
+### requirements.txt
+```txt
+gradio
+praisonaiagents
+yfinance
+python-dotenv
+"praisonaiagents[llm]"
+google-generativeai
+google-cloud-aiplatform
